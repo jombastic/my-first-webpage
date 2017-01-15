@@ -7,8 +7,9 @@
 ## Description
 
 This is one of the first exercise websites from the [Epicodus](https://www.learnhowtoprogram.com) tutorial. It is consisted
-of two pages. They contain some basic block and inline elements, some pictures and links.
-Nothing special, just plain HTML code with great indentation :)
+of three pages. They contain some basic block and inline elements, some pictures and links.
+Each of these pages shares a common stylesheet called style.css which adds
+some small but nice visual touches to the elements.
 
 ## Setup
 
