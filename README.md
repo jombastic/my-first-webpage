@@ -17,7 +17,7 @@ _Just clone the repository locally and open the webpages in your browser_
 ## Technologies Used
 
 * HTML
-* And only HTML
+* CSS
 
 ### Bugs
 
